@@ -273,6 +273,35 @@
       height: 50px;
       margin: 0 auto;
     }
+
+    
   
   }
   
+  .campusImg h1{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .student_Ability{
+    margin: auto;
+    position: relative;
+    top: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .student_img{
+    width: 277px;
+    height: 300px;
+    border: 1px solid red;
+  }
+  .student_img img{
+    width: 275px;
+    height: 183px;
+  }
+  .student_img h3,p{
+    text-align: center;
+    margin-top: 10px;
+  }
