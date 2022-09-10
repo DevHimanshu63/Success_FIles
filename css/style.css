@@ -192,6 +192,8 @@
     .left,
     .list {
       display: none;
+      
+
     }
   
     .right {
@@ -211,8 +213,10 @@
     .list {
       position: relative;
       right: 265px;
-      top: 123px;
-      width: 317%;
+      top: 124px;
+      width: 319%;
+       left: -231%;
+      z-index: 1;
       line-height: 2;
       text-align: center;
       background-color: aliceblue;
