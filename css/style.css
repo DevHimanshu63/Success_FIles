@@ -308,5 +308,8 @@
   }
   .student_img h3,p{
     text-align: center;
+    /* margin-top: 10px; */
+  }
+  .student_img p{
     margin-top: 10px;
   }
