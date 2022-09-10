@@ -43,7 +43,7 @@
     height: 68px;
     width: 100%;
     border-bottom: 1px solid black;
-    /* position: fixed; */
+  
   }
   
   .header {
@@ -98,6 +98,7 @@
   .cardlist {
     justify-content: space-evenly;
     flex-wrap: wrap;
+    margin-top: 50px;
   }
   .card img {
     border-radius: 5px 5px 0 0;
@@ -195,7 +196,10 @@
       
 
     }
-  
+  #hum{
+    display: block;
+    cursor: pointer;
+  }
     .right {
       margin: 0 auto;
     }
@@ -220,7 +224,7 @@
       line-height: 2;
       text-align: center;
       background-color: aliceblue;
-      
+
     }
   
   
